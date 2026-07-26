@@ -1,0 +1,29 @@
+# Enzai
+
+> Enzai is an enterprise AI governance platform that helps organizations adopt AI while managing regulatory and operational risk. Its product suite spans agentic AI governance, AI use-case intake and approval workflows, a centralized AI registry, and compliance frameworks that map AI initiatives to the EU AI Act, GDPR, NIST AI RMF, and ISO 42001. Belfast-based with a London office; ISO 27001 certified; backed by venture capital including Seedcamp. No public API or developer portal is published at this time.
+
+## Products
+- [Agentic AI Governance](https://enz.ai/product/agentic-ai-governance-draft): Real-time analysis, risk flagging, and agent-sprawl management
+- [AI Use Cases & Initiatives](https://enz.ai/product/ai-use-cases-and-initiatives-draft): Structured intake and approval workflows for AI projects
+- [AI Registry](https://enz.ai/product/ai-inventory-draft): Centralized inventory of first- and third-party AI systems
+- [Compliance Frameworks](https://enz.ai/product/ai-compliance-frameworks-draft): Alignment with EU AI Act, GDPR, NIST AI RMF, ISO 42001
+
+## Solutions
+- [AI Enablement](https://enz.ai/solutions/problems/ai-enablement)
+- [Continuous Governance](https://enz.ai/solutions/problems/automated-ai-governance)
+- [Third-Party AI Risk](https://enz.ai/solutions/problems/third-party-ai-risk-management)
+- [Regulations & Standards](https://enz.ai/solutions/problems/ai-regulations-and-standards)
+
+## Resources
+- [Whitepapers](https://enz.ai/learn/whitepaper)
+- [AI Regulations Guides](https://enz.ai/learn/ai-governance-guides)
+- [AI Governance Podcast](https://enz.ai/learn/podcast)
+- [Product Updates](https://enz.ai/learn/product-announcements)
+- [Glossary](https://enz.ai/learn/glossary)
+
+## Company
+- [About Enzai](https://enz.ai/company)
+- [Contact](https://enz.ai/contact/contact)
+- [Book a demo](https://enz.ai/contact/book-a-demo)
+- [Terms of Service](https://enz.ai/policies/terms-of-service)
+- [Privacy Policy](https://enz.ai/policies/privacy-policy)

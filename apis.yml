@@ -1,7 +1,27 @@
 aid: enzai
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/enzai.png
 name: Enzai
-description: Enzai is a company surfaced as a portfolio company of seedcamp and added to the API Evangelist
-  network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  Enzai is an enterprise AI governance platform that helps organizations adopt
+  AI while managing regulatory and operational risk. Its product suite spans
+  agentic AI governance (real-time analysis, risk flagging, and agent-sprawl
+  management), AI use-case intake and approval workflows, a centralized AI
+  registry inventorying first- and third-party AI systems, and compliance
+  frameworks that map AI initiatives to the EU AI Act, GDPR, NIST AI RMF, and
+  ISO/IEC 42001. Enzai is headquartered in Belfast with a London office, is ISO
+  27001 certified, and is backed by venture capital including Seedcamp. No
+  public API or developer portal is published at this time.
 url: https://raw.githubusercontent.com/api-evangelist/enzai/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -11,9 +31,16 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
+- AI Governance
+- Artificial Intelligence
+- Compliance
+- Risk Management
+- AI Registry
+- EU AI Act
+- Enterprise Software
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -22,4 +49,27 @@ maintainers:
   email: info@apis.io
 common:
 - type: Website
-  url: http://enz.ai
+  url: https://enz.ai
+- type: Blog
+  url: https://enz.ai/learn/product-announcements
+- type: Support
+  url: https://enz.ai/contact/contact
+- type: SignUp
+  url: https://enz.ai/contact/book-a-demo
+- type: TermsOfService
+  url: https://enz.ai/policies/terms-of-service
+- type: PrivacyPolicy
+  url: https://enz.ai/policies/privacy-policy
+- type: Compliance
+  url: https://enz.ai
+- type: Conformance
+  url: conformance/enzai-conformance.yml
+- type: DomainSecurity
+  url: security/enzai-domain-security.yml
+- type: LLMsTxt
+  url: llms/enzai-llms.txt
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
